@@ -1,0 +1,16 @@
+{
+  "name": "eloquent-electronic-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sminutoli/eloquent-electronic-life.git",
+  "author": "sminutoli",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --require mocha.setup.js  -w"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "jsdom": "^9.11.0",
+    "mocha": "^3.2.0"
+  }
+}

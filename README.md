@@ -1,2 +1,2 @@
-# eloquent-electronic-life
-Eloquent JS chapter 7 exercise
+# Electronic Life
+Based on http://eloquentjavascript.net/07_elife.html
